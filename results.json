@@ -1,0 +1,498 @@
+[
+  {
+    "test": {
+      "testId": 1,
+      "naziv": "Antitela",
+      "opis": "opis1",
+      "vrsta": "vrsta1",
+      "uputstvoZaUpotrebu": "u1"
+    },
+    "terminTestiranja": {
+      "terminTestiranjaId": 2,
+      "datum": "Jan 11, 2022, 12:00:00 AM",
+      "napomena": "proba2",
+      "pacijent": {
+        "pacijentId": 5,
+        "ime": "Veljko",
+        "prezime": "Kon",
+        "datumRodjenja": "Dec 30, 2000, 12:00:00 AM",
+        "telefon": "+381622977554",
+        "email": "velja17@gmail.com",
+        "laborant": {
+          "laborantId": 12,
+          "brojOrdinacije": 0
+        }
+      },
+      "laborant": {
+        "laborantId": 9,
+        "brojOrdinacije": 0
+      }
+    },
+    "vrednost": false
+  },
+  {
+    "test": {
+      "testId": 1,
+      "naziv": "Antitela",
+      "opis": "opis1",
+      "vrsta": "vrsta1",
+      "uputstvoZaUpotrebu": "u1"
+    },
+    "terminTestiranja": {
+      "terminTestiranjaId": 3,
+      "datum": "Jan 1, 2022, 12:00:00 AM",
+      "napomena": "prva proba zakazivanja termina iz aplikacije",
+      "pacijent": {
+        "pacijentId": 6,
+        "ime": "Marcus",
+        "prezime": "Hanston",
+        "datumRodjenja": "Jan 1, 2022, 12:00:00 AM",
+        "telefon": "062297969",
+        "email": "marcus@gmail.com",
+        "laborant": {
+          "laborantId": 11,
+          "brojOrdinacije": 0
+        }
+      },
+      "laborant": {
+        "laborantId": 14,
+        "brojOrdinacije": 0
+      }
+    },
+    "vrednost": false
+  },
+  {
+    "test": {
+      "testId": 2,
+      "naziv": "Bris",
+      "opis": "opis2",
+      "vrsta": "vrsta2",
+      "uputstvoZaUpotrebu": "u2"
+    },
+    "terminTestiranja": {
+      "terminTestiranjaId": 10,
+      "datum": "Jan 25, 2022, 12:00:00 AM",
+      "napomena": "maloletni pacijent",
+      "pacijent": {
+        "pacijentId": 1,
+        "ime": "Domagoj",
+        "prezime": "Tisma",
+        "datumRodjenja": "Jun 14, 1999, 12:00:00 AM",
+        "telefon": "+386514874",
+        "email": "tisma@gmail.com",
+        "laborant": {
+          "laborantId": 9,
+          "brojOrdinacije": 0
+        }
+      },
+      "laborant": {
+        "laborantId": 11,
+        "brojOrdinacije": 0
+      }
+    },
+    "vrednost": false
+  },
+  {
+    "test": {
+      "testId": 4,
+      "naziv": "PCR test",
+      "opis": "opis4",
+      "vrsta": "vrsta4",
+      "uputstvoZaUpotrebu": "u4"
+    },
+    "terminTestiranja": {
+      "terminTestiranjaId": 5,
+      "datum": "Jan 22, 2022, 12:00:00 AM",
+      "napomena": "Nemanja je oboleo",
+      "pacijent": {
+        "pacijentId": 10,
+        "ime": "Nemanja",
+        "prezime": "Matic",
+        "datumRodjenja": "Jan 19, 1920, 12:00:00 AM",
+        "telefon": "09911220",
+        "email": "nemanjamatic@gmail.com",
+        "laborant": {
+          "laborantId": 14,
+          "brojOrdinacije": 0
+        }
+      },
+      "laborant": {
+        "laborantId": 14,
+        "brojOrdinacije": 0
+      }
+    },
+    "vrednost": false
+  },
+  {
+    "test": {
+      "testId": 4,
+      "naziv": "PCR test",
+      "opis": "opis4",
+      "vrsta": "vrsta4",
+      "uputstvoZaUpotrebu": "u4"
+    },
+    "terminTestiranja": {
+      "terminTestiranjaId": 8,
+      "datum": "Jan 23, 2022, 12:00:00 AM",
+      "napomena": "tests",
+      "pacijent": {
+        "pacijentId": 2,
+        "ime": "Aca",
+        "prezime": "Zoric",
+        "datumRodjenja": "Jun 2, 1993, 12:00:00 AM",
+        "telefon": "+38164254961",
+        "email": "zorkela@gmail.com",
+        "laborant": {
+          "laborantId": 13,
+          "brojOrdinacije": 0
+        }
+      },
+      "laborant": {
+        "laborantId": 7,
+        "brojOrdinacije": 0
+      }
+    },
+    "vrednost": false
+  },
+  {
+    "test": {
+      "testId": 1,
+      "naziv": "Antitela",
+      "opis": "opis1",
+      "vrsta": "vrsta1",
+      "uputstvoZaUpotrebu": "u1"
+    },
+    "terminTestiranja": {
+      "terminTestiranjaId": 1,
+      "datum": "Jan 13, 2022, 12:00:00 AM",
+      "napomena": "probni termin",
+      "pacijent": {
+        "pacijentId": 1,
+        "ime": "Domagoj",
+        "prezime": "Tisma",
+        "datumRodjenja": "Jun 14, 1999, 12:00:00 AM",
+        "telefon": "+386514874",
+        "email": "tisma@gmail.com",
+        "laborant": {
+          "laborantId": 9,
+          "brojOrdinacije": 0
+        }
+      },
+      "laborant": {
+        "laborantId": 7,
+        "brojOrdinacije": 0
+      }
+    },
+    "vrednost": true
+  },
+  {
+    "test": {
+      "testId": 2,
+      "naziv": "Bris",
+      "opis": "opis2",
+      "vrsta": "vrsta2",
+      "uputstvoZaUpotrebu": "u2"
+    },
+    "terminTestiranja": {
+      "terminTestiranjaId": 3,
+      "datum": "Jan 1, 2022, 12:00:00 AM",
+      "napomena": "prva proba zakazivanja termina iz aplikacije",
+      "pacijent": {
+        "pacijentId": 6,
+        "ime": "Marcus",
+        "prezime": "Hanston",
+        "datumRodjenja": "Jan 1, 2022, 12:00:00 AM",
+        "telefon": "062297969",
+        "email": "marcus@gmail.com",
+        "laborant": {
+          "laborantId": 11,
+          "brojOrdinacije": 0
+        }
+      },
+      "laborant": {
+        "laborantId": 14,
+        "brojOrdinacije": 0
+      }
+    },
+    "vrednost": true
+  },
+  {
+    "test": {
+      "testId": 2,
+      "naziv": "Bris",
+      "opis": "opis2",
+      "vrsta": "vrsta2",
+      "uputstvoZaUpotrebu": "u2"
+    },
+    "terminTestiranja": {
+      "terminTestiranjaId": 6,
+      "datum": "Jan 22, 2022, 12:00:00 AM",
+      "napomena": "pacijent ne govori srpski jezik",
+      "pacijent": {
+        "pacijentId": 8,
+        "ime": "Bernulioo",
+        "prezime": "Tomson",
+        "datumRodjenja": "Jan 15, 2001, 12:00:00 AM",
+        "telefon": "+38160254565",
+        "email": "bernulio@gmail.com",
+        "laborant": {
+          "laborantId": 7,
+          "brojOrdinacije": 0
+        }
+      },
+      "laborant": {
+        "laborantId": 16,
+        "brojOrdinacije": 0
+      }
+    },
+    "vrednost": true
+  },
+  {
+    "test": {
+      "testId": 2,
+      "naziv": "Bris",
+      "opis": "opis2",
+      "vrsta": "vrsta2",
+      "uputstvoZaUpotrebu": "u2"
+    },
+    "terminTestiranja": {
+      "terminTestiranjaId": 8,
+      "datum": "Jan 23, 2022, 12:00:00 AM",
+      "napomena": "tests",
+      "pacijent": {
+        "pacijentId": 2,
+        "ime": "Aca",
+        "prezime": "Zoric",
+        "datumRodjenja": "Jun 2, 1993, 12:00:00 AM",
+        "telefon": "+38164254961",
+        "email": "zorkela@gmail.com",
+        "laborant": {
+          "laborantId": 13,
+          "brojOrdinacije": 0
+        }
+      },
+      "laborant": {
+        "laborantId": 7,
+        "brojOrdinacije": 0
+      }
+    },
+    "vrednost": true
+  },
+  {
+    "test": {
+      "testId": 3,
+      "naziv": "Seroloski test",
+      "opis": "opis3",
+      "vrsta": "vrsta3",
+      "uputstvoZaUpotrebu": "u3"
+    },
+    "terminTestiranja": {
+      "terminTestiranjaId": 2,
+      "datum": "Jan 11, 2022, 12:00:00 AM",
+      "napomena": "proba2",
+      "pacijent": {
+        "pacijentId": 5,
+        "ime": "Veljko",
+        "prezime": "Kon",
+        "datumRodjenja": "Dec 30, 2000, 12:00:00 AM",
+        "telefon": "+381622977554",
+        "email": "velja17@gmail.com",
+        "laborant": {
+          "laborantId": 12,
+          "brojOrdinacije": 0
+        }
+      },
+      "laborant": {
+        "laborantId": 9,
+        "brojOrdinacije": 0
+      }
+    },
+    "vrednost": true
+  },
+  {
+    "test": {
+      "testId": 3,
+      "naziv": "Seroloski test",
+      "opis": "opis3",
+      "vrsta": "vrsta3",
+      "uputstvoZaUpotrebu": "u3"
+    },
+    "terminTestiranja": {
+      "terminTestiranjaId": 10,
+      "datum": "Jan 25, 2022, 12:00:00 AM",
+      "napomena": "maloletni pacijent",
+      "pacijent": {
+        "pacijentId": 1,
+        "ime": "Domagoj",
+        "prezime": "Tisma",
+        "datumRodjenja": "Jun 14, 1999, 12:00:00 AM",
+        "telefon": "+386514874",
+        "email": "tisma@gmail.com",
+        "laborant": {
+          "laborantId": 9,
+          "brojOrdinacije": 0
+        }
+      },
+      "laborant": {
+        "laborantId": 11,
+        "brojOrdinacije": 0
+      }
+    },
+    "vrednost": true
+  },
+  {
+    "test": {
+      "testId": 3,
+      "naziv": "Seroloski test",
+      "opis": "opis3",
+      "vrsta": "vrsta3",
+      "uputstvoZaUpotrebu": "u3"
+    },
+    "terminTestiranja": {
+      "terminTestiranjaId": 11,
+      "datum": "Jan 26, 2022, 12:00:00 AM",
+      "napomena": "Aca i pEKI",
+      "pacijent": {
+        "pacijentId": 2,
+        "ime": "Aca",
+        "prezime": "Zoric",
+        "datumRodjenja": "Jun 2, 1993, 12:00:00 AM",
+        "telefon": "+38164254961",
+        "email": "zorkela@gmail.com",
+        "laborant": {
+          "laborantId": 13,
+          "brojOrdinacije": 0
+        }
+      },
+      "laborant": {
+        "laborantId": 18,
+        "brojOrdinacije": 0
+      }
+    },
+    "vrednost": true
+  },
+  {
+    "test": {
+      "testId": 4,
+      "naziv": "PCR test",
+      "opis": "opis4",
+      "vrsta": "vrsta4",
+      "uputstvoZaUpotrebu": "u4"
+    },
+    "terminTestiranja": {
+      "terminTestiranjaId": 1,
+      "datum": "Jan 13, 2022, 12:00:00 AM",
+      "napomena": "probni termin",
+      "pacijent": {
+        "pacijentId": 1,
+        "ime": "Domagoj",
+        "prezime": "Tisma",
+        "datumRodjenja": "Jun 14, 1999, 12:00:00 AM",
+        "telefon": "+386514874",
+        "email": "tisma@gmail.com",
+        "laborant": {
+          "laborantId": 9,
+          "brojOrdinacije": 0
+        }
+      },
+      "laborant": {
+        "laborantId": 7,
+        "brojOrdinacije": 0
+      }
+    },
+    "vrednost": true
+  },
+  {
+    "test": {
+      "testId": 4,
+      "naziv": "PCR test",
+      "opis": "opis4",
+      "vrsta": "vrsta4",
+      "uputstvoZaUpotrebu": "u4"
+    },
+    "terminTestiranja": {
+      "terminTestiranjaId": 2,
+      "datum": "Jan 11, 2022, 12:00:00 AM",
+      "napomena": "proba2",
+      "pacijent": {
+        "pacijentId": 5,
+        "ime": "Veljko",
+        "prezime": "Kon",
+        "datumRodjenja": "Dec 30, 2000, 12:00:00 AM",
+        "telefon": "+381622977554",
+        "email": "velja17@gmail.com",
+        "laborant": {
+          "laborantId": 12,
+          "brojOrdinacije": 0
+        }
+      },
+      "laborant": {
+        "laborantId": 9,
+        "brojOrdinacije": 0
+      }
+    },
+    "vrednost": true
+  },
+  {
+    "test": {
+      "testId": 4,
+      "naziv": "PCR test",
+      "opis": "opis4",
+      "vrsta": "vrsta4",
+      "uputstvoZaUpotrebu": "u4"
+    },
+    "terminTestiranja": {
+      "terminTestiranjaId": 4,
+      "datum": "Jan 20, 2022, 12:00:00 AM",
+      "napomena": "pacijent je retardiran",
+      "pacijent": {
+        "pacijentId": 8,
+        "ime": "Bernulioo",
+        "prezime": "Tomson",
+        "datumRodjenja": "Jan 15, 2001, 12:00:00 AM",
+        "telefon": "+38160254565",
+        "email": "bernulio@gmail.com",
+        "laborant": {
+          "laborantId": 7,
+          "brojOrdinacije": 0
+        }
+      },
+      "laborant": {
+        "laborantId": 16,
+        "brojOrdinacije": 0
+      }
+    },
+    "vrednost": true
+  },
+  {
+    "test": {
+      "testId": 4,
+      "naziv": "PCR test",
+      "opis": "opis4",
+      "vrsta": "vrsta4",
+      "uputstvoZaUpotrebu": "u4"
+    },
+    "terminTestiranja": {
+      "terminTestiranjaId": 10,
+      "datum": "Jan 25, 2022, 12:00:00 AM",
+      "napomena": "maloletni pacijent",
+      "pacijent": {
+        "pacijentId": 1,
+        "ime": "Domagoj",
+        "prezime": "Tisma",
+        "datumRodjenja": "Jun 14, 1999, 12:00:00 AM",
+        "telefon": "+386514874",
+        "email": "tisma@gmail.com",
+        "laborant": {
+          "laborantId": 9,
+          "brojOrdinacije": 0
+        }
+      },
+      "laborant": {
+        "laborantId": 11,
+        "brojOrdinacije": 0
+      }
+    },
+    "vrednost": true
+  }
+]
