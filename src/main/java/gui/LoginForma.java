@@ -135,7 +135,7 @@ public class LoginForma extends javax.swing.JFrame {
         lblTitle.setText("       Laboratorija \"LabMedica\", Nikole Tesle 47, 37000, Kruševac");
         lblTitle.setBorder(javax.swing.BorderFactory.createEtchedBorder());
 
-        jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/pictures/2.jpg"))); // NOI18N
+        jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/pictures/3.jpg"))); // NOI18N
 
         javax.swing.GroupLayout pnlMainLayout = new javax.swing.GroupLayout(pnlMain);
         pnlMain.setLayout(pnlMainLayout);

@@ -82,7 +82,7 @@ public class GlavnaForma extends javax.swing.JFrame {
         jPanel1.setBackground(new java.awt.Color(255, 255, 255));
         jPanel1.setForeground(new java.awt.Color(255, 0, 0));
 
-        panelTrenutniAdministrator.setBackground(new java.awt.Color(204, 0, 0));
+        panelTrenutniAdministrator.setBackground(new java.awt.Color(102, 0, 0));
         panelTrenutniAdministrator.setBorder(javax.swing.BorderFactory.createTitledBorder(javax.swing.BorderFactory.createEtchedBorder(java.awt.Color.white, new java.awt.Color(157, 182, 248)), "Trenutni administrator", javax.swing.border.TitledBorder.CENTER, javax.swing.border.TitledBorder.DEFAULT_POSITION, new java.awt.Font("MS Reference Sans Serif", 0, 28), new java.awt.Color(255, 255, 255))); // NOI18N
         panelTrenutniAdministrator.setForeground(new java.awt.Color(255, 0, 0));
         panelTrenutniAdministrator.setFont(new java.awt.Font("Tahoma", 0, 15)); // NOI18N
@@ -112,7 +112,7 @@ public class GlavnaForma extends javax.swing.JFrame {
         lblCurrentUser.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         lblCurrentUser.setHorizontalTextPosition(javax.swing.SwingConstants.CENTER);
 
-        jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/pictures/p.jpg"))); // NOI18N
+        jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/pictures/dd.png"))); // NOI18N
         jLabel1.setText("L");
 
         javax.swing.GroupLayout jPanel1Layout = new javax.swing.GroupLayout(jPanel1);
