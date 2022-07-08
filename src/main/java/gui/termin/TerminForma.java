@@ -273,7 +273,7 @@ public class TerminForma extends javax.swing.JDialog {
     private void btnPretraziPacijenteActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnPretraziPacijenteActionPerformed
         // TODO add your handling code here:
         new PretragaForma((GlavnaForma) this.getParent(), true, ModPretraga.TERMIN).setVisible(true);
-        popuniKomboLaboranata();
+        popuniKomboPacijenata();
     }//GEN-LAST:event_btnPretraziPacijenteActionPerformed
 
     private void formMouseMoved(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_formMouseMoved
@@ -308,6 +308,7 @@ public class TerminForma extends javax.swing.JDialog {
         } catch (Exception ex) {
             Logger.getLogger(TerminForma.class.getName()).log(Level.SEVERE, null, ex);
         }
+        popuniKomboPacijenata();
     }
 
     private void popuniKomboPacijenata() {

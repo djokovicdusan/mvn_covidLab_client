@@ -8,6 +8,37 @@
       "uputstvoZaUpotrebu": "u1"
     },
     "terminTestiranja": {
+      "terminTestiranjaId": 26,
+      "datum": "Nov 1, 2003, 12:00:00 AM",
+      "napomena": "",
+      "pacijent": {
+        "pacijentId": 9,
+        "ime": "Nitchell",
+        "prezime": "Mayhem",
+        "datumRodjenja": "Jan 16, 1995, 12:00:00 AM",
+        "telefon": "+38163548775",
+        "email": "nitchell@gmail.com",
+        "laborant": {
+          "laborantId": 7,
+          "brojOrdinacije": 0
+        }
+      },
+      "laborant": {
+        "laborantId": 13,
+        "brojOrdinacije": 0
+      }
+    },
+    "vrednost": false
+  },
+  {
+    "test": {
+      "testId": 1,
+      "naziv": "Antitela",
+      "opis": "opis1",
+      "vrsta": "vrsta1",
+      "uputstvoZaUpotrebu": "u1"
+    },
+    "terminTestiranja": {
       "terminTestiranjaId": 2,
       "datum": "Jan 11, 2022, 12:00:00 AM",
       "napomena": "proba2",
@@ -94,6 +125,99 @@
   },
   {
     "test": {
+      "testId": 1,
+      "naziv": "Antitela",
+      "opis": "opis1",
+      "vrsta": "vrsta1",
+      "uputstvoZaUpotrebu": "u1"
+    },
+    "terminTestiranja": {
+      "terminTestiranjaId": 20,
+      "datum": "Jan 1, 2021, 12:00:00 AM",
+      "napomena": "",
+      "pacijent": {
+        "pacijentId": 2,
+        "ime": "Aca",
+        "prezime": "Zoric",
+        "datumRodjenja": "Jun 2, 1993, 12:00:00 AM",
+        "telefon": "+38164254961",
+        "email": "zorkela@gmail.com",
+        "laborant": {
+          "laborantId": 13,
+          "brojOrdinacije": 0
+        }
+      },
+      "laborant": {
+        "laborantId": 7,
+        "brojOrdinacije": 0
+      }
+    },
+    "vrednost": false
+  },
+  {
+    "test": {
+      "testId": 1,
+      "naziv": "Antitela",
+      "opis": "opis1",
+      "vrsta": "vrsta1",
+      "uputstvoZaUpotrebu": "u1"
+    },
+    "terminTestiranja": {
+      "terminTestiranjaId": 16,
+      "datum": "Jul 2, 2022, 12:00:00 AM",
+      "napomena": "test item ",
+      "pacijent": {
+        "pacijentId": 8,
+        "ime": "Bernulioo",
+        "prezime": "Tomson",
+        "datumRodjenja": "Jan 15, 2001, 12:00:00 AM",
+        "telefon": "+38160254565",
+        "email": "bernulio@gmail.com",
+        "laborant": {
+          "laborantId": 7,
+          "brojOrdinacije": 0
+        }
+      },
+      "laborant": {
+        "laborantId": 7,
+        "brojOrdinacije": 0
+      }
+    },
+    "vrednost": false
+  },
+  {
+    "test": {
+      "testId": 1,
+      "naziv": "Antitela",
+      "opis": "opis1",
+      "vrsta": "vrsta1",
+      "uputstvoZaUpotrebu": "u1"
+    },
+    "terminTestiranja": {
+      "terminTestiranjaId": 17,
+      "datum": "Jan 1, 2001, 12:00:00 AM",
+      "napomena": "",
+      "pacijent": {
+        "pacijentId": 9,
+        "ime": "Nitchell",
+        "prezime": "Mayhem",
+        "datumRodjenja": "Jan 16, 1995, 12:00:00 AM",
+        "telefon": "+38163548775",
+        "email": "nitchell@gmail.com",
+        "laborant": {
+          "laborantId": 7,
+          "brojOrdinacije": 0
+        }
+      },
+      "laborant": {
+        "laborantId": 7,
+        "brojOrdinacije": 0
+      }
+    },
+    "vrednost": false
+  },
+  {
+    "test": {
       "testId": 4,
       "naziv": "PCR test",
       "opis": "opis4",
@@ -156,6 +280,37 @@
   },
   {
     "test": {
+      "testId": 4,
+      "naziv": "PCR test",
+      "opis": "opis4",
+      "vrsta": "vrsta4",
+      "uputstvoZaUpotrebu": "u4"
+    },
+    "terminTestiranja": {
+      "terminTestiranjaId": 22,
+      "datum": "Feb 1, 2001, 12:00:00 AM",
+      "napomena": "",
+      "pacijent": {
+        "pacijentId": 2,
+        "ime": "Aca",
+        "prezime": "Zoric",
+        "datumRodjenja": "Jun 2, 1993, 12:00:00 AM",
+        "telefon": "+38164254961",
+        "email": "zorkela@gmail.com",
+        "laborant": {
+          "laborantId": 13,
+          "brojOrdinacije": 0
+        }
+      },
+      "laborant": {
+        "laborantId": 7,
+        "brojOrdinacije": 0
+      }
+    },
+    "vrednost": false
+  },
+  {
+    "test": {
       "testId": 1,
       "naziv": "Antitela",
       "opis": "opis1",
@@ -163,18 +318,111 @@
       "uputstvoZaUpotrebu": "u1"
     },
     "terminTestiranja": {
-      "terminTestiranjaId": 1,
-      "datum": "Jan 13, 2022, 12:00:00 AM",
-      "napomena": "probni termin",
+      "terminTestiranjaId": 18,
+      "datum": "Jul 8, 2022, 12:00:00 AM",
+      "napomena": "",
       "pacijent": {
-        "pacijentId": 1,
-        "ime": "Domagoj",
-        "prezime": "Tisma",
-        "datumRodjenja": "Jun 14, 1999, 12:00:00 AM",
-        "telefon": "+386514874",
-        "email": "tisma@gmail.com",
+        "pacijentId": 6,
+        "ime": "Marcus",
+        "prezime": "Hanston",
+        "datumRodjenja": "Jan 1, 2022, 12:00:00 AM",
+        "telefon": "062297969",
+        "email": "marcus@gmail.com",
         "laborant": {
-          "laborantId": 9,
+          "laborantId": 11,
+          "brojOrdinacije": 0
+        }
+      },
+      "laborant": {
+        "laborantId": 7,
+        "brojOrdinacije": 0
+      }
+    },
+    "vrednost": true
+  },
+  {
+    "test": {
+      "testId": 1,
+      "naziv": "Antitela",
+      "opis": "opis1",
+      "vrsta": "vrsta1",
+      "uputstvoZaUpotrebu": "u1"
+    },
+    "terminTestiranja": {
+      "terminTestiranjaId": 19,
+      "datum": "Feb 1, 2020, 12:00:00 AM",
+      "napomena": "",
+      "pacijent": {
+        "pacijentId": 2,
+        "ime": "Aca",
+        "prezime": "Zoric",
+        "datumRodjenja": "Jun 2, 1993, 12:00:00 AM",
+        "telefon": "+38164254961",
+        "email": "zorkela@gmail.com",
+        "laborant": {
+          "laborantId": 13,
+          "brojOrdinacije": 0
+        }
+      },
+      "laborant": {
+        "laborantId": 7,
+        "brojOrdinacije": 0
+      }
+    },
+    "vrednost": true
+  },
+  {
+    "test": {
+      "testId": 1,
+      "naziv": "Antitela",
+      "opis": "opis1",
+      "vrsta": "vrsta1",
+      "uputstvoZaUpotrebu": "u1"
+    },
+    "terminTestiranja": {
+      "terminTestiranjaId": 21,
+      "datum": "Jan 1, 2001, 12:00:00 AM",
+      "napomena": "",
+      "pacijent": {
+        "pacijentId": 2,
+        "ime": "Aca",
+        "prezime": "Zoric",
+        "datumRodjenja": "Jun 2, 1993, 12:00:00 AM",
+        "telefon": "+38164254961",
+        "email": "zorkela@gmail.com",
+        "laborant": {
+          "laborantId": 13,
+          "brojOrdinacije": 0
+        }
+      },
+      "laborant": {
+        "laborantId": 7,
+        "brojOrdinacije": 0
+      }
+    },
+    "vrednost": true
+  },
+  {
+    "test": {
+      "testId": 1,
+      "naziv": "Antitela",
+      "opis": "opis1",
+      "vrsta": "vrsta1",
+      "uputstvoZaUpotrebu": "u1"
+    },
+    "terminTestiranja": {
+      "terminTestiranjaId": 24,
+      "datum": "Nov 1, 2003, 12:00:00 AM",
+      "napomena": "",
+      "pacijent": {
+        "pacijentId": 2,
+        "ime": "Aca",
+        "prezime": "Zoric",
+        "datumRodjenja": "Jun 2, 1993, 12:00:00 AM",
+        "telefon": "+38164254961",
+        "email": "zorkela@gmail.com",
+        "laborant": {
+          "laborantId": 13,
           "brojOrdinacije": 0
         }
       },
@@ -280,6 +528,37 @@
   },
   {
     "test": {
+      "testId": 2,
+      "naziv": "Bris",
+      "opis": "opis2",
+      "vrsta": "vrsta2",
+      "uputstvoZaUpotrebu": "u2"
+    },
+    "terminTestiranja": {
+      "terminTestiranjaId": 12,
+      "datum": "Jul 7, 2022, 12:00:00 AM",
+      "napomena": "asdf",
+      "pacijent": {
+        "pacijentId": 2,
+        "ime": "Aca",
+        "prezime": "Zoric",
+        "datumRodjenja": "Jun 2, 1993, 12:00:00 AM",
+        "telefon": "+38164254961",
+        "email": "zorkela@gmail.com",
+        "laborant": {
+          "laborantId": 13,
+          "brojOrdinacije": 0
+        }
+      },
+      "laborant": {
+        "laborantId": 13,
+        "brojOrdinacije": 0
+      }
+    },
+    "vrednost": true
+  },
+  {
+    "test": {
       "testId": 3,
       "naziv": "Seroloski test",
       "opis": "opis3",
@@ -366,6 +645,37 @@
       },
       "laborant": {
         "laborantId": 18,
+        "brojOrdinacije": 0
+      }
+    },
+    "vrednost": true
+  },
+  {
+    "test": {
+      "testId": 3,
+      "naziv": "Seroloski test",
+      "opis": "opis3",
+      "vrsta": "vrsta3",
+      "uputstvoZaUpotrebu": "u3"
+    },
+    "terminTestiranja": {
+      "terminTestiranjaId": 14,
+      "datum": "Jul 28, 2022, 12:00:00 AM",
+      "napomena": "qr code test 11",
+      "pacijent": {
+        "pacijentId": 2,
+        "ime": "Aca",
+        "prezime": "Zoric",
+        "datumRodjenja": "Jun 2, 1993, 12:00:00 AM",
+        "telefon": "+38164254961",
+        "email": "zorkela@gmail.com",
+        "laborant": {
+          "laborantId": 13,
+          "brojOrdinacije": 0
+        }
+      },
+      "laborant": {
+        "laborantId": 12,
         "brojOrdinacije": 0
       }
     },
@@ -466,6 +776,68 @@
   },
   {
     "test": {
+      "testId": 1,
+      "naziv": "Antitela",
+      "opis": "opis1",
+      "vrsta": "vrsta1",
+      "uputstvoZaUpotrebu": "u1"
+    },
+    "terminTestiranja": {
+      "terminTestiranjaId": 1,
+      "datum": "Jan 13, 2022, 12:00:00 AM",
+      "napomena": "probni termin",
+      "pacijent": {
+        "pacijentId": 1,
+        "ime": "Domagoj",
+        "prezime": "Tisma",
+        "datumRodjenja": "Jun 14, 1999, 12:00:00 AM",
+        "telefon": "+386514874",
+        "email": "tisma@gmail.com",
+        "laborant": {
+          "laborantId": 9,
+          "brojOrdinacije": 0
+        }
+      },
+      "laborant": {
+        "laborantId": 7,
+        "brojOrdinacije": 0
+      }
+    },
+    "vrednost": true
+  },
+  {
+    "test": {
+      "testId": 1,
+      "naziv": "Antitela",
+      "opis": "opis1",
+      "vrsta": "vrsta1",
+      "uputstvoZaUpotrebu": "u1"
+    },
+    "terminTestiranja": {
+      "terminTestiranjaId": 7,
+      "datum": "Dec 12, 2012, 12:00:00 AM",
+      "napomena": "",
+      "pacijent": {
+        "pacijentId": 2,
+        "ime": "Aca",
+        "prezime": "Zoric",
+        "datumRodjenja": "Jun 2, 1993, 12:00:00 AM",
+        "telefon": "+38164254961",
+        "email": "zorkela@gmail.com",
+        "laborant": {
+          "laborantId": 13,
+          "brojOrdinacije": 0
+        }
+      },
+      "laborant": {
+        "laborantId": 7,
+        "brojOrdinacije": 0
+      }
+    },
+    "vrednost": true
+  },
+  {
+    "test": {
       "testId": 4,
       "naziv": "PCR test",
       "opis": "opis4",
@@ -490,6 +862,192 @@
       },
       "laborant": {
         "laborantId": 11,
+        "brojOrdinacije": 0
+      }
+    },
+    "vrednost": true
+  },
+  {
+    "test": {
+      "testId": 4,
+      "naziv": "PCR test",
+      "opis": "opis4",
+      "vrsta": "vrsta4",
+      "uputstvoZaUpotrebu": "u4"
+    },
+    "terminTestiranja": {
+      "terminTestiranjaId": 12,
+      "datum": "Jul 7, 2022, 12:00:00 AM",
+      "napomena": "asdf",
+      "pacijent": {
+        "pacijentId": 2,
+        "ime": "Aca",
+        "prezime": "Zoric",
+        "datumRodjenja": "Jun 2, 1993, 12:00:00 AM",
+        "telefon": "+38164254961",
+        "email": "zorkela@gmail.com",
+        "laborant": {
+          "laborantId": 13,
+          "brojOrdinacije": 0
+        }
+      },
+      "laborant": {
+        "laborantId": 13,
+        "brojOrdinacije": 0
+      }
+    },
+    "vrednost": true
+  },
+  {
+    "test": {
+      "testId": 4,
+      "naziv": "PCR test",
+      "opis": "opis4",
+      "vrsta": "vrsta4",
+      "uputstvoZaUpotrebu": "u4"
+    },
+    "terminTestiranja": {
+      "terminTestiranjaId": 13,
+      "datum": "Jul 28, 2022, 12:00:00 AM",
+      "napomena": "test qr code",
+      "pacijent": {
+        "pacijentId": 5,
+        "ime": "Veljko",
+        "prezime": "Kon",
+        "datumRodjenja": "Dec 30, 2000, 12:00:00 AM",
+        "telefon": "+381622977554",
+        "email": "velja17@gmail.com",
+        "laborant": {
+          "laborantId": 12,
+          "brojOrdinacije": 0
+        }
+      },
+      "laborant": {
+        "laborantId": 7,
+        "brojOrdinacije": 0
+      }
+    },
+    "vrednost": true
+  },
+  {
+    "test": {
+      "testId": 4,
+      "naziv": "PCR test",
+      "opis": "opis4",
+      "vrsta": "vrsta4",
+      "uputstvoZaUpotrebu": "u4"
+    },
+    "terminTestiranja": {
+      "terminTestiranjaId": 15,
+      "datum": "Jul 10, 2022, 12:00:00 AM",
+      "napomena": "qr code final test",
+      "pacijent": {
+        "pacijentId": 9,
+        "ime": "Nitchell",
+        "prezime": "Mayhem",
+        "datumRodjenja": "Jan 16, 1995, 12:00:00 AM",
+        "telefon": "+38163548775",
+        "email": "nitchell@gmail.com",
+        "laborant": {
+          "laborantId": 7,
+          "brojOrdinacije": 0
+        }
+      },
+      "laborant": {
+        "laborantId": 13,
+        "brojOrdinacije": 0
+      }
+    },
+    "vrednost": true
+  },
+  {
+    "test": {
+      "testId": 1,
+      "naziv": "Antitela",
+      "opis": "opis1",
+      "vrsta": "vrsta1",
+      "uputstvoZaUpotrebu": "u1"
+    },
+    "terminTestiranja": {
+      "terminTestiranjaId": 9,
+      "datum": "Jan 23, 2022, 12:00:00 AM",
+      "napomena": "",
+      "pacijent": {
+        "pacijentId": 9,
+        "ime": "Nitchell",
+        "prezime": "Mayhem",
+        "datumRodjenja": "Jan 16, 1995, 12:00:00 AM",
+        "telefon": "+38163548775",
+        "email": "nitchell@gmail.com",
+        "laborant": {
+          "laborantId": 7,
+          "brojOrdinacije": 0
+        }
+      },
+      "laborant": {
+        "laborantId": 10,
+        "brojOrdinacije": 0
+      }
+    },
+    "vrednost": true
+  },
+  {
+    "test": {
+      "testId": 4,
+      "naziv": "PCR test",
+      "opis": "opis4",
+      "vrsta": "vrsta4",
+      "uputstvoZaUpotrebu": "u4"
+    },
+    "terminTestiranja": {
+      "terminTestiranjaId": 23,
+      "datum": "Jan 1, 2001, 12:00:00 AM",
+      "napomena": "",
+      "pacijent": {
+        "pacijentId": 2,
+        "ime": "Aca",
+        "prezime": "Zoric",
+        "datumRodjenja": "Jun 2, 1993, 12:00:00 AM",
+        "telefon": "+38164254961",
+        "email": "zorkela@gmail.com",
+        "laborant": {
+          "laborantId": 13,
+          "brojOrdinacije": 0
+        }
+      },
+      "laborant": {
+        "laborantId": 14,
+        "brojOrdinacije": 0
+      }
+    },
+    "vrednost": true
+  },
+  {
+    "test": {
+      "testId": 4,
+      "naziv": "PCR test",
+      "opis": "opis4",
+      "vrsta": "vrsta4",
+      "uputstvoZaUpotrebu": "u4"
+    },
+    "terminTestiranja": {
+      "terminTestiranjaId": 25,
+      "datum": "Nov 1, 2003, 12:00:00 AM",
+      "napomena": "",
+      "pacijent": {
+        "pacijentId": 6,
+        "ime": "Marcus",
+        "prezime": "Hanston",
+        "datumRodjenja": "Jan 1, 2022, 12:00:00 AM",
+        "telefon": "062297969",
+        "email": "marcus@gmail.com",
+        "laborant": {
+          "laborantId": 11,
+          "brojOrdinacije": 0
+        }
+      },
+      "laborant": {
+        "laborantId": 7,
         "brojOrdinacije": 0
       }
     },
